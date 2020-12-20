@@ -1,4 +1,4 @@
-# Elevator-
+# Elevator
 
 The elevator issue is when demand for the elevator increases to too many people causing delays. What this project aimed to do was to attempt to solve this problem using a **simple unsorted array, a priority queue implemented using a singly linked-list and lastly using a heap data structure**.
 
